@@ -1,0 +1,7 @@
+a = io.read("*n")
+b = io.read("*n")
+c = io.read("*n")
+res1 = (a+b)*(b+c)
+res2 = 3*(a+b+c)
+print(res1)
+print(res2)

@@ -1,0 +1,5 @@
+print("Insira um número real qualquer.")
+a = io.read("*n")
+a = math.abs(a)
+a = math.ceil(a)
+print(a)
