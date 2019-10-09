@@ -82,3 +82,54 @@ Entrada   | Saida
 “Exercício da Monitoria”| “O tipo da variável é string”
 
 * [Gabarito](./qst06.lua)
+
+### Multiplos de um número
+Escreva um programa que leia um número inteiro e exiba como resultado o seu dobro, e em seguida o seu triplo, concatenados.
+
+Entrada   | Saida
+--------- | ------
+   2      | 46
+   1      | 23
+   0      | 00
+
+* [Gabarito](./qst07.lua)
+
+### Teto de inteiros positivos
+Faça um programa que receba como entrada um número real qualquer, e que imprima em tela um número inteiro maior ou igual à entrada, usando a função teto. Caso o número seja negativo, ele deve ser tratado como número positivo. Não utilize estruturas IF.
+
+Entrada   | Saida
+--------- | ------
+   2      | 2
+   2.3    | 3
+   -1     | 1
+   4      | 4
+   4.001  | 5
+  -4.001 | 5
+
+
+* [Gabarito](./qst08.lua)
+
+### Três Reais
+Escreva um programa que leia três variáveis reais A, B e C, e exiba uma linha com o resultado do seguinte cálculo: a soma do 1º número com 2º, multiplicado pela soma do 2º pelo 3º. Na linha seguinte, exibir o resultado do triplo da soma dos 3 números.
+
+Entrada   | Saida
+--------- | ------
+   1 2 3  | 15<br>18
+   0 1 2  | 3<br>9
+   2 2 2  | 16<br>18
+   1 0 1  | 1<br>6
+
+
+* [Gabarito](./qst09.lua)
+
+### Permuta
+Faça um programa que receba 3 entradas quaisquer A, B e C. Espera-se que o programa faça as seguintes permutações dois a dois: entre os conteúdos das variáveis A e B; B e C; em seguida B e A; e por último, A e C. Em cada permuta, o programa deve exibir o conteúdo atual de cada variável.
+
+Entrada   | Saida
+--------- | ------
+   “ABC”<br>100<br>true | “A = 100 , B = “ABC”, C = true ”<br> “A = 100 , B = true, C = “ABC” ” <br>“A = true , B = 100, C = “ABC” ” <br>“A = “ABC” , B = 100, C = true ”
+   10<br>4<br>2  | “A = “4 , B = 10, C = 2 ” <br>“A = 4 , B = 2, C = 10 ”<br> “A = 2 , B = 4, C = 10 ” <br>“A = 10 , B = 4, C = 2 ”
+   
+
+
+* [Gabarito](./qst10.lua)
