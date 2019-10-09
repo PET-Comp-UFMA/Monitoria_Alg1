@@ -15,7 +15,7 @@ Entrada   | Saida
    ---    | True
    ---    | 80
 
-* [Gabarito](/qst01.lua)
+* [Gabarito](./qst01.lua)
 
 ### Soma e Produto dois números
 Dado dois números A e B, calcular:
@@ -30,7 +30,7 @@ Entrada   | Saida
    0 10   | “A soma de 0 e 10 é 10.” <br>“O produto de 0 e 10 é 0.”
    6 4    | “A soma de 6 e 4 é 10.” <br>“O produto de 6 e 4 é 24.”
 
-* [Gabarito](/qst02.lua)
+* [Gabarito](./qst02.lua)
 
 ### Cubo de um número
 Dado um número A, calcular o seu valor elevado ao cubo e imprimí-lo em tela, seguindo o formato: “O cubo de A é C.”, onde C é A^3.
@@ -41,7 +41,7 @@ Entrada   | Saida
    0      | “O cubo de 0 é 0.”
    4      | “O cubo de 4 é 64.”
 
-* [Gabarito](/qst03.lua)
+* [Gabarito](./qst03.lua)
 
 
 ### Inverter Número
@@ -54,7 +54,7 @@ Entrada   | Saida
    4321   | 1234
    1001   | 1001
 
-* [Gabarito](/qst04.lua)
+* [Gabarito](./qst04.lua)
 
 ### Divisão Inteira entre dois números
 Dado dois números A e B, calcular a sua razão e imprimí-la em tela, seguindo o formato: “A razão entre A e B é R.”, onde R é a divisão inteira A/B. É possível que o resultado R seja apresentado como um número de ponto flutuante (número real não-inteiro, tipo, 0.2, 1.1 ou 4.5). O desafio é obter um R inteiro usando apenas a aritmética básica (usando + - * / %). Está vetado o uso de bibliotecas.
@@ -66,4 +66,19 @@ Entrada   | Saida
    1 2    | “A razão entre 1 e 2 é 0.”
    4 3    | “A razão entre 4 e 3 é 1.”
 
-* [Gabarito](/qst04.lua)
+* [Gabarito](./qst05.lua)
+
+
+### Tipos de variáveis
+Dado uma variável A que receba qualquer informação de entrada do usuário, escreva um programa que imprima em tela o tipo de dado dessa variável, seguindo o formato: “O tipo da variável é TIPO.”, onde TIPO é um dos tipos de variáveis definidos na linguagem utilizada.
+(ex: em linguagens da família C, temos int, float, double, char, etc…, já em Lua, temos string, number, boolean, nil, etc...). Não use estruturas IF. Bibliotecas nativas são permitidas.
+
+Entrada   | Saida
+--------- | ------
+   2      | “O tipo da variável é number.”
+   2.3    | “O tipo da variável é number.”
+   True   | “O tipo da variável é boolean.”
+   ‘A’    | “O tipo da variável é string”
+“Exercício da Monitoria”| “O tipo da variável é string”
+
+* [Gabarito](./qst06.lua)
