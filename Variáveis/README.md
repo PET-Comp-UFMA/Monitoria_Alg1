@@ -133,3 +133,15 @@ Entrada   | Saida
 
 
 * [Gabarito](./qst10.lua)
+
+### 11. Dias de Vida
+Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considere que um ano tem 365 dias e um mês tem 30 dias.
+
+Entrada   | Saida
+--------- | ------
+ 19 6 12  | 7127 dias
+ 40 5 10  | 14760 dias
+   
+
+
+* [Gabarito](./qst11.lua)
