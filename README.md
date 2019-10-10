@@ -1,4 +1,4 @@
-# Monitoria de Algorítmos 1
+# Monitoria de Algoritmos 1
 
 Esse repositório foi criado pelos membros do PETComp para armazenar listas de exercícios resolvidas, a fim de ajudar os discentes que estão cursando a disciplina de Algoritmos I, ministrado no curso de Ciência da Computação na Universidade Federal do Maranhão (UFMA).
 Nesses exercícios, é usada a linguagem de programação Lua. (Veja https://www.lua.org/)
