@@ -1,6 +1,12 @@
 # Monitoria de Algoritmos 1
 
+
+
+
 ![](./GAD.png)
+[![PET Comp](https://img.shields.io/badge/PETComp-100%25-blue)
+[![Open Source](https://img.shields.io/badge/Open-Source-9cf)
+[![](https://img.shields.io/badge/Hello-Git-blue)
 
 Esse repositório foi criado pelo Grupo de Acompanhamento de Discentes (GAD), composto por membros do [Programa de Educação Tutorial de Ciência da Computação da UFMA](https://pet.ufma.br/comp/) (Universidade Federal do Maranhão). Nesses exercícios, usamos [Lua](https://www.lua.org/), que comumente se torna o primeiro contato dos alunos do curso com linguagens de programação. Aqui estão armazenadas as listas de exercícios resolvidas, a fim de ajudar os discentes que estão cursando a disciplina de Algoritmos I, ministrado no curso de Ciência da Computação na UFMA. 
 
