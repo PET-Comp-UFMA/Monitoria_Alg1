@@ -19,7 +19,7 @@ Respeite a licença de software livre aqui vigente [(GNU General Public License 
 ## Assuntos abordados
 
 * [Variáveis](/Variáveis)
-* Estruturas de Decisão
+* [Condições](/Condições)
 * Funções
 * Laços de Repetição
 * Vetores e Matrizes
