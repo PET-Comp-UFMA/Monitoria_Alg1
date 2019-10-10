@@ -1,9 +1,9 @@
-# Variaveis
+# Variáveis
 
 
 ## Questões
 
-### Hello World
+### 1. Hello World
 Uma prática muito bem difundida entre os programadores é que, em cada nova linguagem que eles aprendem, experimentem em seu primeiro programa a exibição de uma mensagem em tela. Em seu primeiro programa, apenas imprima a string “Hello World !”, usando a função de sistema já implementada em sua linguagem.
 
 >OBS: Experimente guardar a string em uma variável, e tente imprimir o valor dessa variável, assim como fazer modificações em seu conteúdo, como mudar a string, inserir um valor numérico ou booleano na variável.
@@ -17,7 +17,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst01.lua)
 
-### Soma e Produto dois números
+### 2. Soma e Produto dois números
 Dado dois números A e B, calcular:
 a) a sua soma e imprimí-la em tela, seguindo o formato: “A soma de A e B é S.”, onde S é a soma A+B.
 b) o seu produto e imprimí-lo em tela, seguindo o formato: “O produto de A e B é P.”, onde P é o produto A.B.
@@ -32,7 +32,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst02.lua)
 
-### Cubo de um número
+### 3. Cubo de um número
 Dado um número A, calcular o seu valor elevado ao cubo e imprimí-lo em tela, seguindo o formato: “O cubo de A é C.”, onde C é A^3.
 
 Entrada   | Saida
@@ -44,7 +44,7 @@ Entrada   | Saida
 * [Gabarito](./qst03.lua)
 
 
-### Inverter Número
+### 4. Inverter Número
 Dado um número A, de quatro dígitos, imprimir seus dígitos em ordem invertida.
 Dessa forma, está vetado receber como entrada cada dígito do teclado em variáveis distintas
 
@@ -56,7 +56,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst04.lua)
 
-### Divisão Inteira entre dois números
+### 5. Divisão Inteira entre dois números
 Dado dois números A e B, calcular a sua razão e imprimí-la em tela, seguindo o formato: “A razão entre A e B é R.”, onde R é a divisão inteira A/B. É possível que o resultado R seja apresentado como um número de ponto flutuante (número real não-inteiro, tipo, 0.2, 1.1 ou 4.5). O desafio é obter um R inteiro usando apenas a aritmética básica (usando + - * / %). Está vetado o uso de bibliotecas.
 
 Entrada   | Saida
@@ -69,7 +69,7 @@ Entrada   | Saida
 * [Gabarito](./qst05.lua)
 
 
-### Tipos de variáveis
+### 6. Tipos de variáveis
 Dado uma variável A que receba qualquer informação de entrada do usuário, escreva um programa que imprima em tela o tipo de dado dessa variável, seguindo o formato: “O tipo da variável é TIPO.”, onde TIPO é um dos tipos de variáveis definidos na linguagem utilizada.
 (ex: em linguagens da família C, temos int, float, double, char, etc…, já em Lua, temos string, number, boolean, nil, etc...). Não use estruturas IF. Bibliotecas nativas são permitidas.
 
@@ -83,7 +83,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst06.lua)
 
-### Multiplos de um número
+### 7. Multiplos de um número
 Escreva um programa que leia um número inteiro e exiba como resultado o seu dobro, e em seguida o seu triplo, concatenados.
 
 Entrada   | Saida
@@ -94,7 +94,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst07.lua)
 
-### Teto de inteiros positivos
+### 8. Teto de inteiros positivos
 Faça um programa que receba como entrada um número real qualquer, e que imprima em tela um número inteiro maior ou igual à entrada, usando a função teto. Caso o número seja negativo, ele deve ser tratado como número positivo. Não utilize estruturas IF.
 
 Entrada   | Saida
@@ -109,7 +109,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst08.lua)
 
-### Três Reais
+### 9. Três Reais
 Escreva um programa que leia três variáveis reais A, B e C, e exiba uma linha com o resultado do seguinte cálculo: a soma do 1º número com 2º, multiplicado pela soma do 2º pelo 3º. Na linha seguinte, exibir o resultado do triplo da soma dos 3 números.
 
 Entrada   | Saida
@@ -122,7 +122,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst09.lua)
 
-### Permuta
+### 10. Permuta
 Faça um programa que receba 3 entradas quaisquer A, B e C. Espera-se que o programa faça as seguintes permutações dois a dois: entre os conteúdos das variáveis A e B; B e C; em seguida B e A; e por último, A e C. Em cada permuta, o programa deve exibir o conteúdo atual de cada variável.
 
 Entrada   | Saida
