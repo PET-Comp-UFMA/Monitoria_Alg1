@@ -1,0 +1,12 @@
+print("Digite o numero total de eleitores")
+total = io.read("*n")
+print("Digite o numero de votos validos")
+validos = io.read("*n")
+print("Digite o numero de votos brancos")
+brancos = io.read("*n")
+print("Digite o numero de votos nulos")
+nulos = io.read("*n")
+ 
+print("Validos: " .. (validos*100)/total .. "%")
+print("Brancos: " .. (brancos*100)/total .. "%")
+print("Nulos: " .. (nulos*100)/total .. "%")
