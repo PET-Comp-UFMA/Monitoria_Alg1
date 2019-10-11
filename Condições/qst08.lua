@@ -1,5 +1,6 @@
 honda = 0
 blanka = 0
+
 print("Round 1")
 input=io.read()
 
