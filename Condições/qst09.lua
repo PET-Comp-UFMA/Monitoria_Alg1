@@ -15,6 +15,7 @@ else
     print("Toasty!!!")
     return -1
 end
+
 print("Round 2")
 input = io.read()
 
