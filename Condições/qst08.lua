@@ -24,7 +24,7 @@ else
 end
 
 if honda~=2 and blanka~=2 then
-    print("Round final")
+    print("Final Round")
     input = io.read()
     if input == "true" then
         print("O vencedor da luta é Honda!")
