@@ -11,4 +11,5 @@ if l1<l2+l3 and l2<l1+l3 and l3<l2+l2 then
         print("Escaleno")
     end
 else
-  
+    print("ERRO!!!")
+end
