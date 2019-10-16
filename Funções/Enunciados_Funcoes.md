@@ -102,8 +102,7 @@ Entrada   | Saida
 --------- | ------
 “João” 1954 1989    | “João tem aposentadoria em 2019.”
 “Maria das Dores” 1943 1993    | “Maria das Dores não tem aposentadoria em 2019.”<br>“Trabalhe mais 4 anos.”
-“Enzo” 1990 2003   | “Enzo não tem aposentadoria em 2019.”
-“Trabalhe mais 14 anos.”<br>“Muito novo para se aposentar.”
+“Enzo” 1990 2003   | “Enzo não tem aposentadoria em 2019.”<br>“Trabalhe mais 14 anos.”<br>“Muito novo para se aposentar.”
 
 
 * [Gabarito](./qst08.lua)
