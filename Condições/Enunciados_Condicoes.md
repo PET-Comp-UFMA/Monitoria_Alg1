@@ -119,9 +119,7 @@ Dessa vez, os fãs de Street Fighter decidem competir um melhor de 5 rounds no M
 Entrada   | Saida
 --------- | ------
 True True False False True         | “Round 1”<br>“Scorpion”<br>“Round 2”<br>“Scorpion”<br>“Round 3”<br>“SubZero”<br>“Round 4”<br>“SubZero”<br>“Final Round”<br>“O vencedor da luta é Scorpion!”
-
 True Nil         | “Round 1”<br>“Scorpion”<br>“Toasty!!!”.
-
 False True True True        | “Round 1”<br>“SubZero”<br>“Round 2”<br>“Scorpion”<br>“Round 3”<br>“Scorpion”<br>“Round 4”<br>“O vencedor da luta é Scorpion!”
 
 * [Gabarito](./qst09.lua)
