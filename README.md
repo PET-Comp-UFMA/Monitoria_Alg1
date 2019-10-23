@@ -20,8 +20,8 @@ Respeite a licença de software livre aqui vigente [(GNU General Public License 
 
 ## Assuntos abordados
 
-* [Variáveis](/01-Variáveis/Enunciados_Variaveis.md)
-* [Condições](/02-Condições/Enunciados_Condicoes.md)
-* [Funções](/03-Funções/Enunciados_Condicoes.md)
+* [Variáveis](/01-Variáveis/readme.md)
+* [Condições](/02-Condições/readme.md)
+* [Funções](/03-Funções/readme.md)
 * Laços de Repetição
 * Vetores e Matrizes
