@@ -68,3 +68,15 @@ Entrada   | Saida
 
 
 * [Gabarito](./qst05.lua)
+
+### 6. Valores Negativos
+Ler 10 valores e escrever quantos desses valores lidos são NEGATIVOS.
+Entrada   | Saida
+--------- | ------
+-5 -4 -3 -2 -1 0 1 2 3 4| 5 numeros negativos
+-6 9 8 56 -8 5 -1 -56 0 10|4 numeros negativos
+-6 9 8 56 -8 5 -1 -56 0 10|4 numeros negativos
+6 8 2 57 41 9 32 2 74 55|0 numeros negativos
+
+
+* [Gabarito](./qst06.lua)
