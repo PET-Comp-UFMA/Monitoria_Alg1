@@ -40,5 +40,18 @@ Entrada   | Saida
 
 
 
-* [Gabarito](./qst02.lua)
+* [Gabarito](./qst03.lua)
+### 4. Números em um intervalo
+
+Faça um programa que leia os números os inteiros positivos recebidos a partir da entrada padrão, até que um número negativo seja lido. Ao término do programa, ele deve exibir o maior número dado, e em seguida, exibir o menor número não-negativo não-nulo fornecido, além da quantidade de ocorrências desses números. 
+
+
+Entrada   | Saida
+--------- | ------
+1<br>3<br>6<br>12<br>10<br>-1| “O maior número é 12, e ocorreu 1 vez(es).” <br>“O menor número é 1, e ocorreu 1 vez(es).”
+3<br>4<br>3<br>2<br>0<br>4<br>-100| “O maior número é 4, e ocorreu 2 vez(es).”<br>“O menor número é 2, e ocorreu 1 vez(es).”
+180<br>-2|“O maior número é 180, e ocorreu 1 vez(es).”<br>“O menor número é 180, e ocorreu 1 vez(es).”
+
+* [Gabarito](./qst01.lua)
+
 
