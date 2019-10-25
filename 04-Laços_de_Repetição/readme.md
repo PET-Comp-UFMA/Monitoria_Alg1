@@ -33,10 +33,10 @@ Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos est
 
 Entrada   | Saida
 --------- | ------
-2<br>5<br>7| 0 valor(es) dentro do intervalo [10,20]<br>2 valor(es) fora do intervalo [10,20]
-3<br>13<br>18<br>1| 2 valor(es) dentro do intervalo [10,20]<br>1 valor(es) fora do intervalo [10,20]
-3<br>5<br>3<br>8| 0 valor(es) dentro do intervalo [10,20]<br>3 valor(es) fora do intervalo [10,20]
-3<br>10<br>12<br>20|3 valor(es) dentro do intervalo [10,20]<br>0 valor(es) fora do intervalo [10,20]
+2<br>5<br>7| "0 valor(es) dentro do intervalo [10,20]"<br>"2 valor(es) fora do intervalo [10,20]"
+3<br>13<br>18<br>1| "2 valor(es) dentro do intervalo [10,20]"<br>"1 valor(es) fora do intervalo [10,20]"
+3<br>5<br>3<br>8| "0 valor(es) dentro do intervalo [10,20]"<br>"3 valor(es) fora do intervalo [10,20]"
+3<br>10<br>12<br>20|"3 valor(es) dentro do intervalo [10,20]"<br>"0 valor(es) fora do intervalo [10,20]"
 
 
 
