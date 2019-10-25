@@ -108,14 +108,13 @@ Entrada   | Saida
 * [Gabarito](./qst08.lua)
 
 
-### 9. Eu vi na fila do pão
-Faça uma função que receba a altura de N pessoas na fila de uma padaria (As próximas N entradas devem ser as alturas delas) e printa quantas podem ser vistas pelo padeiro. Use a seguinte assinatura: ```function visiveisFila (n)``` .
+### 9. Fatorial
+Faça uma função que receba um número e retorne o seu fatorial (obs: recomenda-se usar uma função recursiva) ```function visiveisFila (n)``` .
 
 Entrada   | Saida
 --------- | ------
-4<br>1.90<br>1.65<br>1.85<br>1.84 | “1 pessoa”
-3<br>1.70<br>1.65<br>1.85 | “2 pessoas”
-4<br>1.65<br>1.83<br>1.85<br>1.90 | “4 pessoas”
-
+5 | 120
+6| 720
+1 | 1
 * [Gabarito](./qst09.lua)
 
