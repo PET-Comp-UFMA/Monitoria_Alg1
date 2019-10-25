@@ -3,18 +3,16 @@
 
 ## Questões
 
-### 1. Nome da questão
-Descrição da questão
->Observações se houver
-
+### 1. Sequencia de quadrados
+Dado um inteiro positivo N, faça um programa que gere os N primeiros números da seguinte sequência: 1², 2², 3², …, N².
 
 Entrada   | Saida
 --------- | ------
-Entrada1  | Saida 1
-Entrada2  | Saida 2
-Entrada3  | Saida 3
-Entrada4  | Saida 4
+2| 1, 4
+5| 1,4,9,16,25
+6|1,4,9,16,25,36
 
-* [Gabarito](./questão.lua)
+
+* [Gabarito](./qst01.lua)
 
 
