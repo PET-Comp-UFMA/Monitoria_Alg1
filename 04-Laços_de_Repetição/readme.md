@@ -15,4 +15,15 @@ Entrada   | Saida
 
 * [Gabarito](./qst01.lua)
 
+### 2.Sequência Enésimo
+Dado um inteiro positivo N, faça um programa que gere os próximos N números da seguinte sequência: 1², 2², 3², …, N², a partir do N-ésimo termo.
+
+Entrada   | Saida
+--------- | ------
+1| 1
+2| 4,9
+4| 16,25,36,49
+
+
+* [Gabarito](./qst02.lua)
 
