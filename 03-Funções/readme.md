@@ -109,7 +109,7 @@ Entrada   | Saida
 
 
 ### 9. Fatorial
-Faça uma função que receba um número e retorne o seu fatorial (obs: recomenda-se usar uma função recursiva) ```function visiveisFila (n)``` .
+Faça uma função que receba um número e retorne o seu fatorial (obs: recomenda-se usar uma função recursiva) ```function fatorial(n)``` .
 
 Entrada   | Saida
 --------- | ------
