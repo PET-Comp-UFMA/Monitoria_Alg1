@@ -23,7 +23,6 @@ k=0
 for i=1,3 do
  for j=1,3 do
    aux = aux * mat[j][j+k]
-   --print("\n" .. aux .. '\n')
  end
  dprin = dprin + aux
  aux = 1
