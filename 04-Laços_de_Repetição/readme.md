@@ -52,6 +52,19 @@ Entrada   | Saida
 3<br>4<br>3<br>2<br>0<br>4<br>-100| “O maior número é 4, e ocorreu 2 vez(es).”<br>“O menor número é 2, e ocorreu 1 vez(es).”
 180<br>-2|“O maior número é 180, e ocorreu 1 vez(es).”<br>“O menor número é 180, e ocorreu 1 vez(es).”
 
-* [Gabarito](./qst01.lua)
+* [Gabarito](./qst04.lua)
 
 
+### 5. Soma dos divisores
+Escreva um programa que leia um número inteiro e calcule a soma de todos os divisores desse número, com exceção dele próprio. Ex: a soma dos divisores do número 30 é 1 + 2 + 3 + 5 + 6 + 10 + 15 = 32, já para o número 66 é 1 + 2 + 3 + 6 + 11 + 22 + 33 = 78.
+
+Entrada   | Saida
+--------- | ------
+4| 3
+6|6 
+30|32
+66|78
+49|8
+
+
+* [Gabarito](./qst05.lua)
