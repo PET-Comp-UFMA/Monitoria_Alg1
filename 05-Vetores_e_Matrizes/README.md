@@ -33,5 +33,5 @@ Entrada   | Saida
 1 2 3<br>1 2 3<br>1 2 3|0
 4 0 2<br>1 3 4<br>5 -1 3|20
 
-* [Gabarito] (./qst04.lua)
+* [Gabarito](./qst04.lua)
 
