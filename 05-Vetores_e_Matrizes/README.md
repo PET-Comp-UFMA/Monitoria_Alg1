@@ -35,4 +35,7 @@ Entrada   | Saida
 
 * [Gabarito](./qst04.lua)
 ### 5. Eu vi na fila do pão
+Faça uma função que receba a altura de N pessoas na fila de uma padaria (As próximas N entradas devem ser as alturas delas) e mostra na tela quantas podem ser vistas pelo padeiro. Use a seguinte assinatura: function visiveisFila(n) .
+
+Entrada|Saida
 
