@@ -34,5 +34,5 @@ Entrada   | Saida
 4 0 2<br>1 3 4<br>5 -1 3|20
 
 * [Gabarito](./qst04.lua)
-### 5. 
+### 5. Eu vi na fila do pão
 
