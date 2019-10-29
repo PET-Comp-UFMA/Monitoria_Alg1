@@ -25,6 +25,10 @@ Faça um algoritmo para ler um vetor de 30 números. Após isto, ler amis um nú
 * [Gabarito](./qst03.lua)
 
 ### 4. Determinante
-Faça um programa que receba os 9 números de uma matriz 3x3 e calcule e imprima o seu determinanteTESTE.
+Faça um programa que receba os 9 números de uma matriz 3x3 e calcule e imprima o seu determinante.
+
+Entrada   | Saida
+--------- |------
+1 0 1<br>0 1 0<br>0 0 1| 1
 
 
