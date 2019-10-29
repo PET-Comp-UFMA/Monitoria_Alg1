@@ -3,9 +3,9 @@
 
 ## Questões
 
-### 1. Nome da questão
-Descrição da questão
->Observações se houver
+### 1. Operações no vetor
+Escreva um programa que altere todos os valores de um vetor de tamanho N preenchido com números aleatórios de 1 a 20, se o valor for ímpar deve se multiplicar por 3, se for par deve-se subtrair 1 e multiplicar por 2. no final imprima o vetor antes e depois das alterações serem feitas
+
 
 
 Entrada   | Saida
@@ -15,4 +15,4 @@ Entrada2  | Saida 2
 Entrada3  | Saida 3
 Entrada4  | Saida 4
 
-* [Gabarito](./questão.lua)
+* [Gabarito](./qst01.lua)
