@@ -10,7 +10,7 @@ Escreva um programa que altere todos os valores de um vetor de tamanho N preench
 
 Entrada   | Saida
 --------- | ------
-Entrada1  | Saida 1
+3  |17 8 16<br>51 14 30
 Entrada2  | Saida 2
 Entrada3  | Saida 3
 Entrada4  | Saida 4
