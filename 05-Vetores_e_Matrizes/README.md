@@ -30,5 +30,8 @@ Faça um programa que receba os 9 números de uma matriz 3x3 e calcule e imprima
 Entrada   | Saida
 --------- |------
 1 0 1<br>0 1 0<br>0 0 1| 1
+1 2 3<br>1 2 3<br>1 2 3|0
+4 0 2<br>1 3 4<br>5 -1 3|20
 
+* [Gabarito] (./qst04.lua)
 
