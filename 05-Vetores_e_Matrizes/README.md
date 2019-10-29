@@ -42,4 +42,5 @@ Entrada|Saida
 4<br>1.90<br>1.65<br>1.85<br>1.84<br>|1 pessoa
 3<br>1.70<br>1.65<br>1.85|2 pessoas
 4<br>1.65<br>1.83<br>1.85<br>1.90|4 pessoas
+* [Gabarito](./qst05.lua)
 
