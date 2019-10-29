@@ -39,4 +39,5 @@ Faça uma função que receba a altura de N pessoas na fila de uma padaria (As p
 
 Entrada|Saida
 -|-
+4<br>1.90<br>1.65<br>1.85<br>1.84<br>|1 pessoa
 
