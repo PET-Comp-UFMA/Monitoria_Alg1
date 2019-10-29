@@ -11,8 +11,8 @@ Escreva um programa que altere todos os valores de um vetor de tamanho N preench
 Entrada   | Saida
 --------- | ------
 3  |17 8 16<br>51 14 30
-Entrada2  | Saida 2
-Entrada3  | Saida 3
+5|17 8 16 16 19<br>51 14 30 30 57
+1  | 17<br>51
 Entrada4  | Saida 4
 
 * [Gabarito](./qst01.lua)
