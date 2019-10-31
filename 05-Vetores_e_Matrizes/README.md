@@ -44,3 +44,19 @@ Entrada|Saida
 3<br>1.70<br>1.65<br>1.85|2 pessoas
 4<br>1.65<br>1.83<br>1.85<br>1.90|4 pessoas
 * [Gabarito](./qst05.lua)
+### 6. Soma de pares
+Fça um programa que receba do usurário 10 números. O programa deverá calcular a quantidade de elementos pares e imprimir cada elemento. Deverá também calcular e exibir a soma de todos esses elementos. Caso nenhum dos elementos sejam pares, exiba a seguinte mensagem: "Não há elementos pares".
+
+Entrada|Saida
+- | -
+2<br>7<br>9<br>6<br>4<br>2<br>10<br>11<br>24<br>14|"Existem 7 elementos pares"<br>"2,6,4,2,10,24,14"<br>"Soma de pares = 62"
+9
+5
+7
+33
+11
+15
+19
+1
+147
+23
