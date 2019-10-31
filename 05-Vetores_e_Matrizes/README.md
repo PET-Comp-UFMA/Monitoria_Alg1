@@ -50,13 +50,7 @@ Fça um programa que receba do usurário 10 números. O programa deverá calcula
 Entrada|Saida
 - | -
 2<br>7<br>9<br>6<br>4<br>2<br>10<br>11<br>24<br>14|"Existem 7 elementos pares"<br>"2,6,4,2,10,24,14"<br>"Soma de pares = 62"
-9
-5
-7
-33
-11
-15
-19
-1
-147
-23
+9<br>5<br>7<br>33<br>11<br>15<br>19<br>1<br>147<br>23|"Existem 0 elementos pares"<br>"Não há elementos"
+0<br>165<br>183<br>185<br>91<br>17<br>29<br>3<br>7<br>9|"Existem 1 elementos pares"<br>"0"<br>"Soma de pares = 0"
+* [Gabarito](./qst06.lua) 
+
