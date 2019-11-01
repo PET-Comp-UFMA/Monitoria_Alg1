@@ -11,7 +11,7 @@ Escreva um programa que altere todos os valores de um vetor de tamanho N preench
 Entrada   | Saida
 --------- | ------
 3  | 17 8 16<br>51 14 30
-5| 17 8 16 16 19<br>51 14 30 30 57
+5  | 17 8 16 16 19<br>51 14 30 30 57
 1  | 17<br>51
 
 * [Gabarito](./qst01.lua)
@@ -53,4 +53,18 @@ Entrada|Saida
 9<br>5<br>7<br>33<br>11<br>15<br>19<br>1<br>147<br>23|"Existem 0 elementos pares"<br>"Não há elementos"
 0<br>165<br>183<br>185<br>91<br>17<br>29<br>3<br>7<br>9|"Existem 1 elementos pares"<br>"0"<br>"Soma de pares = 0"
 * [Gabarito](./qst06.lua) 
+
+
+### 7. Ordenar Vetor
+Escreva uma função ```function ordenaVetor(v)``` que recebe um  vetor de inteiros de tamanho 10, a função deve retornar o mesmo vetor ordenado de forma crescente
+
+
+
+Entrada   | Saida
+--------- | ------
+3 8 7 1 10 1 -7 3 1 17  | -7 1 1 1 3 3 7 8 10 17
+10 9 8 7 6 5 4 3 2 1    | 1 2 3 4 5 6 7 8 9 10
+8 7 1 3 19 18 2 15 20 10  | 1 2 3 7 8 10 15 18 19 20
+
+* [Gabarito](./qst07.lua)
 
