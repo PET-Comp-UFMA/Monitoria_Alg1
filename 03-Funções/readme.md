@@ -120,8 +120,8 @@ Entrada   | Saida
 
 
 ### 10. Sequencia de Fibonacci
-Implemente uma função recursiva que receba o número N como argumento, a função deve imprimir na tela os N primeiro números da sequência.
-A sequên de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores.
+Implemente uma função recursiva que receba o número N como argumento, a função deve imprimir na tela os N primeiro números da sequência de Fibonacci.
+A sequência de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores.
 EX: 0 1 1 2 3 5 8 13 ...
 
 
