@@ -24,4 +24,4 @@ Respeite a licença de software livre aqui vigente [(GNU General Public License 
 * [Condições](/02-Condições/readme.md)
 * [Funções](/03-Funções/readme.md)
 * [Laços de Repetição](/04-Laços_de_Repetição/readme.md)
-* Vetores e Matrizes
+* [Vetores e Matrizes](05-Vetores_e_Matrizes/README.md)
