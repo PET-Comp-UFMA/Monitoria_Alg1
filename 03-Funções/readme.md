@@ -118,3 +118,17 @@ Entrada   | Saida
 1 | 1
 * [Gabarito](./qst09.lua)
 
+
+### 10. Sequencia de fibonacci
+Implemente uma função recursiva que receba o número N como argumento, a função deve imprimir na tela os N primeiro números da sequência.
+A sequên de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores.
+EX: 0 1 1 2 3 5 8 13 ...
+
+
+Entrada   | Saida
+--------- | ------
+6         | 0 1 1 2 3 5
+10        | 0 1 1 2 3 5 8 13 21 34
+3         | 0 1 1
+
+* [Gabarito](./qst10.lua)
