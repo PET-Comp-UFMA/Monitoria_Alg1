@@ -68,3 +68,10 @@ Entrada   | Saida
 
 * [Gabarito](./qst07.lua)
 
+### 8. Operando uma matriz
+Faça um programa que receba do usuário a quantidade de linhas e colunas de uma matriz e que preencha essa matriz com números aleatórios menores 10. Imprima a matriz gerada, a transposta da matriz, a diagonal principal e o triângulo superior.
+>Tente usar a função io.write() para imprimir a linha da matriz.
+
+Entrada   | Saida
+------ | ------
+3<br>3 | "Matriz gerada:"<br>2 &nbsp;4 &nbsp;5<br>3 &nbsp;6 &nbsp;8<br>7 &nbsp;1 &nbsp;2<br>"Matriz transposta:"<br>2 &nbsp;3 &nbsp;7<br>4 &nbsp;6 &nbsp;1<br>5 &nbsp;8 &nbsp;2<br>"Diagonal principal:"<br>2<br> &nbsp;  &nbsp;6<br> &nbsp;  &nbsp; &nbsp; &nbsp;2<br>"Triângulo superior:"<br>2 &nbsp;4 &nbsp;5<br> &nbsp; &nbsp; 6 &nbsp;8<br> &nbsp; &nbsp; &nbsp; &nbsp; 2
