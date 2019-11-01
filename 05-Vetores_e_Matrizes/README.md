@@ -74,4 +74,6 @@ Faça um programa que receba do usuário a quantidade de linhas e colunas de uma
 
 Entrada   | Saida
 ------ | ------
-3<br>3 | "Matriz gerada:"<br>2 &nbsp;4 &nbsp;5<br>3 &nbsp;6 &nbsp;8<br>7 &nbsp;1 &nbsp;2<br>"Matriz transposta:"<br>2 &nbsp;3 &nbsp;7<br>4 &nbsp;6 &nbsp;1<br>5 &nbsp;8 &nbsp;2<br>"Diagonal principal:"<br>2<br> &nbsp;  &nbsp;6<br> &nbsp;  &nbsp; &nbsp; &nbsp;2<br>"Triângulo superior:"<br>2 &nbsp;4 &nbsp;5<br> &nbsp; &nbsp; 6 &nbsp;8<br> &nbsp; &nbsp; &nbsp; &nbsp; 2
+3<br>3 | "Matriz gerada:"<br>2 &nbsp;4 &nbsp;5<br>3 &nbsp;6 &nbsp;8<br>7 &nbsp;1 &nbsp;2<br>"Matriz transposta:"<br>2 &nbsp;3 &nbsp;7<br>4 &nbsp;6 &nbsp;1<br>5 &nbsp;8 &nbsp;2<br>"Diagonal principal:"<br>2<br> &nbsp;  &nbsp;6<br> &nbsp;  &nbsp; &nbsp; &nbsp;2<br>"Triângulo superior:"<br> &nbsp;4 &nbsp;5<br> &nbsp; &nbsp; 8
+
+* [Gabarito](./qst08.lua)
