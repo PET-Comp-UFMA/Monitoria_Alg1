@@ -56,7 +56,7 @@ Entrada|Saida
 
 
 ### 7. Ordenar Vetor
-Escreva uma função ```function ordenaVetor(v)``` que recebe um  vetor de inteiros de tamanho 10, a função deve retornar o mesmo vetor ordenado de forma crescente
+Escreva uma função ```function ordenaVetor(v)``` que recebe um  vetor de inteiros de tamanho 10, a função deve ordenar vetor de forma crescente
 
 
 
