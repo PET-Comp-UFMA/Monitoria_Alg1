@@ -3,7 +3,7 @@
 
 ## Questões
 
-### 1. Sequencia de quadrados
+### 1. Sequência de quadrados
 Dado um inteiro positivo N, faça um programa que gere os N primeiros números da seguinte sequência: 1², 2², 3², …, N².
 
 Entrada   | Saida
@@ -96,6 +96,6 @@ Faça um programa que imprima o seguinte triângulo feito com asteriscos.
 \*&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *<br>
 \*&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *<br>
 
-OBS: Ultilize laços de repetição. Para imprimir sem a quebra de linha ultilise a função io.write()
+OBS: Ultilize laços de repetição. Para imprimir sem a quebra de linha utilize a função ```io.write()```
 
 * [Gabarito](./qst07.lua)
