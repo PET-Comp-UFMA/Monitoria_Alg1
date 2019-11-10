@@ -11,9 +11,9 @@ Faça uma função que receba a altura (m), e o gênero de um(a) atleta (M ou F)
 
 Entrada   | Saida
 --------- | ------
-1.85 “M”  | 75,55 Kg
-1.90 ”F”  | 73.93 Kg
-1.73 “M”  | 66.87 Kg
+1.85 “M”  | "75.55 Kg"
+1.90 ”F”  | "73.93 Kg"
+1.73 “M”  | "66.87 Kg"
 
 * [Gabarito](./qst01.lua)
 
@@ -25,7 +25,7 @@ onde nota1, nota2 e nota3 são as notas do aluno, já tipoMedia é uma das segui
 
 Entrada   | Saida
 --------- | ------
-9.5 10.0 9.0 “aritmetica”  | 9,5
+9.5 10.0 9.0 “aritmetica”  | 9.5
 9.5 10.0 9.0 “ponderada”   | 9.65
 10.0 4.5 10 “ponderada”    | 7.25
 
@@ -38,7 +38,7 @@ Faça uma função que receba as coordenadas de 4 pontos quaisquer no plano cart
 Entrada   | Saida
 --------- | ------
 0 0<br>0 4<br>9 0<br>9 4 | “Não formou um quadrado.”
-2 2<br>2 5.5<br>5.5 2<br>5.5 5.5 | 12,25
+2 2<br>2 5.5<br>5.5 2<br>5.5 5.5 | 12.25
 8 1<br>3 6<br>8 6<br>3 1 | 25
 4 3<br>3 4<br>4 6<br>3 6 | “Não formou um quadrado.”
 
@@ -75,7 +75,7 @@ Faça uma função que converta uma temperatura dada em Fahrenheit para Celsius 
 Entrada   | Saida
 --------- | ------
 212 “Celsius”    | 100 °C
-8 “Kelvin”       | 303,15 K
+8 “Kelvin”       | 303.15 K
 86 “Celsius”     | 30 °C
 
 * [Gabarito](./qst06.lua)
@@ -122,7 +122,7 @@ Entrada   | Saida
 ### 10. Sequencia de Fibonacci
 Implemente uma função recursiva que receba o número N como argumento, a função deve imprimir na tela os N primeiros números da sequência de Fibonacci.
 A sequência de Fibonacci, é uma sequência de números inteiros, começando normalmente por 0 e 1, na qual, cada termo subsequente corresponde à soma dos dois anteriores.
-EX: 0 1 1 2 3 5 8 13 ...
+EX: 0, 1, 1, 2, 3, 5, 8, 13 ...
 
 
 Entrada   | Saida

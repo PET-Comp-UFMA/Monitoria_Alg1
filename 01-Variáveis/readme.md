@@ -11,7 +11,7 @@ Uma prática muito bem difundida entre os programadores é que, em cada nova lin
 Entrada   | Saida
 --------- | ------
    ---    | “Hello World !”
-   ---    | "Good Bye ! ”
+   ---    | "Good Bye !”
    ---    | True
    ---    | 80
 
@@ -165,8 +165,8 @@ Faça um algoritmo para ler o número total de eleitores, o número de votos bra
 
 Entrada   | Saida
 --------- | ------
- 1000<br>5000<br>2500<br>2500 | Validos: 50%<br>Brancos: 25%<br>Nulos: 25%
- 650<br>500<br>100<br>50 | Validos: 76,9%<br>Brancos: 15,3%<br>Nulos: 7,8%
+ 1000<br>5000<br>2500<br>2500 | "Válidos: 50%<br>Brancos: 25%<br>Nulos: 25%"
+ 650<br>500<br>100<br>50 | "Válidos: 76,9%<br>Brancos: 15,3%<br>Nulos: 7,8%"
    
 * [Gabarito](./qst13.lua)
 
