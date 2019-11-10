@@ -9,8 +9,8 @@ Dado um inteiro positivo N, faça um programa que gere os N primeiros números d
 Entrada   | Saida
 --------- | ------
 2| 1, 4
-5| 1,4,9,16,25
-6|1,4,9,16,25,36
+5| 1, 4, 9, 16, 25
+6|1, 4, 9, 16, 25, 36
 
 
 * [Gabarito](./qst01.lua)
@@ -74,10 +74,10 @@ Ler 10 valores e escrever quantos desses valores lidos são NEGATIVOS.
 
 Entrada   | Saida
 --------- | ------
--5 -4 -3 -2 -1 0 1 2 3 4| 5 numeros negativos
--6 9 8 56 -8 5 -1 -56 0 10|4 numeros negativos
--6 9 8 56 -8 5 -1 -56 0 10|4 numeros negativos
-6 8 2 57 41 9 32 2 74 55|0 numeros negativos
+-5 -4 -3 -2 -1 0 1 2 3 4| "5 números negativos"
+-6 9 8 56 -8 5 -1 -56 0 10|"4 números negativos"
+-6 9 8 56 -8 5 -1 -56 0 10|"4 números negativos"
+6 8 2 57 41 9 32 2 74 55|"0 números negativos"
 
 
 * [Gabarito](./qst06.lua)
