@@ -96,6 +96,6 @@ Faça um programa que imprima o seguinte triângulo feito com asteriscos.
 \*&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *<br>
 \*&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *&nbsp; *<br>
 
-OBS: Ultilize laços de repetição. Para imprimir sem a quebra de linha utilize a função ```io.write()```
+>OBS: Ultilize laços de repetição. Para imprimir sem a quebra de linha utilize a função ```io.write()```
 
 * [Gabarito](./qst07.lua)
