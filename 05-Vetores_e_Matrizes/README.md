@@ -21,7 +21,7 @@ Faça um programa que imprima o menor e o maior valor de um vetor com 100 númer
 
 * [Gabarito](./qst02.lua)
 ### 3. Número em vetor
-Faça um algoritmo para ler um vetor de 30 números. Após isto, ler amis um número qualquer, calcular quantas vezes esse número aparece no vetor.
+Faça um algoritmo para ler um vetor de 30 números. Após isto, receba mais um número N qualquer, para calcular quantas vezes esse número aparece no vetor.
 * [Gabarito](./qst03.lua)
 
 ### 4. Determinante
@@ -36,7 +36,7 @@ Entrada   | Saida
 * [Gabarito](./qst04.lua)
 
 ### 5. Eu vi na fila do pão
-Faça uma função que receba a altura de N pessoas na fila de uma padaria (As próximas N entradas devem ser as alturas delas) e mostra na tela quantas podem ser vistas pelo padeiro. Use a seguinte assinatura: function visiveisFila(n) .
+Faça uma função que receba a altura de N pessoas na fila de uma padaria (As próximas N entradas devem ser as alturas delas) e mostra na tela quantas podem ser vistas pelo padeiro. Use a seguinte assinatura: ```function visiveisFila(n)``` .
 
 Entrada|Saida
 -|-
