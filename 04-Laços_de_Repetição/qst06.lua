@@ -8,4 +8,4 @@ for i=1,10 do
  end
 end
  
-print(cont .. " numeros negativos")
+print(cont .. " números negativos")
