@@ -11,9 +11,9 @@ Faça uma função que receba a altura (m), e o gênero de um(a) atleta (M ou F)
 
 Entrada   | Saida
 --------- | ------
-1.85 “M”  | 75.55 Kg
-1.90 ”F”  | 73.93 Kg
-1.73 “M”  | 66.87 Kg
+1.85 “M”  | "75.55 Kg"
+1.90 ”F”  | "73.93 Kg"
+1.73 “M”  | "66.87 Kg"
 
 * [Gabarito](./qst01.lua)
 
