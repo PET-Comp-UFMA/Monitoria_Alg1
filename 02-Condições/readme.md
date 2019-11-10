@@ -101,7 +101,7 @@ Entrada   | Saida
 
 ### 8. Melhor de Três
 Dois jogadores de Street Fighter V competem um melhor de 3 rounds. Não basta saber o Hadouken, o jogador que nocautear o oponente em no mínimo 2 rodadas, vence a disputa. Faça um programa que recebe um fluxo de três booleanos, indicando em quais rounds o Honda foi melhor que o Blanka. 
-Antes de cada entrada, imprima uma mensagem indicando o Round atual (Round 1, 2 e Final Round), já ao final de cada round, exceto o último, imprima o nome do vencedor., abortando a entrada quando necessário .
+Antes de cada entrada, imprima uma mensagem indicando o Round atual (Round 1, 2 e Final Round), já ao final de cada round, exceto o último, imprima o nome do vencedor, abortando a entrada quando necessário .
 Por fim, Imprima “O vencedor da luta é LUTADOR!”, onde LUTADOR é o nome do Honda ou do Blanka. 
 
 Entrada   | Saida
@@ -113,7 +113,7 @@ False False        | “Round 1”<br>“Blanka”<br>“Round 2”<br>O vencedo
 * [Gabarito](./qst08.lua)
 
 
-### 9. Melhor de Três
+### 9. Melhor de Cinco
 Dessa vez, os fãs de Street Fighter decidem competir um melhor de 5 rounds no Mortal Kombat. Só pra zoar, modifique o programa anterior e adicione um easter egg (“Toasty!!!”), caso alguma das entradas seja um valor inválido, interrompendo o fluxo de entradas. Os lutadores agora são Scorpion e SubZero. 
 
 Entrada   | Saida
@@ -154,8 +154,8 @@ Faça um programa que leia três valores e apresente o maior dos três valores l
 
 Entrada   | Saida
 --------- | ------
-4 5 7 | 7 é o maior
--5 19 0 | 19 é o maior
+4 5 7 | "7 é o maior"
+-5 19 0 | "19 é o maior"
 
 * [Gabarito](./qst12.lua)
 
