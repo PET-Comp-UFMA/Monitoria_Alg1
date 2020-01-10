@@ -1,12 +1,10 @@
+print("digite um numero de 4 digitos")
 num = io.read("*n")
-unid, dez, cent, mil = 0,0,0,0
 
-num,unid = math.floor(num/10), tostring(num%10)
---print(unid)
-num,dez = math.floor(num/10), tostring(num%10)
---print(dez)
-num,cent = math.floor(num/10), tostring(num%10)
---print(cent)
-num,mil = math.floor(num/10), tostring(num%10)
---print(mil)
-print(unid .. dez .. cent .. mil)
+n1 = math.floor(num/1)%10
+n2 = math.floor(num/10)%10
+n3 = math.floor(num/100)%10
+n4 = math.floor(num/1000)%10
+
+
+print(n1..n2..n3..n4)
